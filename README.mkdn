@@ -1,6 +1,8 @@
 Server for CSH Roomba
 ===
 
+Server to facilitate connections to: https://github.com/posiden/roomba-maid
+
 Commands
 ---
 
