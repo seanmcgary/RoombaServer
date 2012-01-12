@@ -1,2 +1,26 @@
 Server for CSH Roomba
 ===
+
+Commands
+---
+
+
+Login:
+
+```
+{
+	opcode: 'login',
+	username: '<username>',
+	password: '<password>'
+}
+```
+
+
+Errors:
+
+```
+{
+	opcode: 'err',
+	msg: '<error message>'
+}
+```
